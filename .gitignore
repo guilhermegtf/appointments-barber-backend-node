@@ -4,9 +4,9 @@ node_modules/
 build/
 temp/
 .env
-coverage
+# testing
+/coverage
 ormconfig.json
-
 tmp/*
 !tmp/.gitkeep
 
